@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/wifi-app/static/css/main.e6c13ad2.css",
-    "main.js": "/wifi-app/static/js/main.47b23953.js",
+    "main.js": "/wifi-app/static/js/main.df8bd061.js",
     "static/js/453.1ba5e01c.chunk.js": "/wifi-app/static/js/453.1ba5e01c.chunk.js",
     "index.html": "/wifi-app/index.html",
     "main.e6c13ad2.css.map": "/wifi-app/static/css/main.e6c13ad2.css.map",
-    "main.47b23953.js.map": "/wifi-app/static/js/main.47b23953.js.map",
+    "main.df8bd061.js.map": "/wifi-app/static/js/main.df8bd061.js.map",
     "453.1ba5e01c.chunk.js.map": "/wifi-app/static/js/453.1ba5e01c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.47b23953.js"
+    "static/js/main.df8bd061.js"
   ]
 }
